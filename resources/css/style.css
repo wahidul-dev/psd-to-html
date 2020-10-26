@@ -272,7 +272,9 @@ header{
 	background: #393939;
 	transform: rotate(360deg);
 }
-
+.social-link, .fa, .fab, .fal, .far, .fas{
+	color: #fff;
+}
 /* ==================== */
 /* Skills Sections */
 /* ==================== */
