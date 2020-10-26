@@ -127,6 +127,10 @@ header{
 	margin-top: 3.5rem;
 	float: left;
 }
+.hero-text-box {
+	width : 114rem;
+}
+/*MAIN NAVGATION */
 
 .main-nav{
 	float: right;
@@ -452,7 +456,7 @@ svg.ui-ux circle{
 	height: 20rem;
 	font-family:  'Titillium Web','sans-serif';
 }
-.contact-section form :: placeholder{
+.contact-section form ::placeholder{
 	color: #fff;
 	opacity: 1;
 }
